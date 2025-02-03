@@ -29,7 +29,7 @@
 	border-radius: 10px;
 }
 
-.qr-block__text, .attribution {
+.qr-block__text{
 	padding: 0 16px;
 	color: hsl(218, 44%, 22%);
 }
@@ -44,10 +44,4 @@
 	color: hsl(216, 15%, 48%);
 	width: 256px;
 	padding: 0 16px;
-}
-
-.attribution{
-	text-align: center;
-	margin: 30px auto 0;
-	padding: 0;
 }
